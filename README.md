@@ -1,6 +1,3 @@
-Here's a README that sounds like you:
-
----
 
 # AutoGrade
 
