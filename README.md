@@ -38,6 +38,3 @@ I do cinematic content creation and color grading is like 60% of making things l
 
 GPL-3.0 — use it, learn from it, contribute to it. Just don't close-source it and sell it as your own thing.
 
----
-
-Want me to adjust anything or add a usage/quickstart section once you have the CLI or API figured out?
