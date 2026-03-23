@@ -30,9 +30,7 @@ Think of it as DaVinci Resolve's color grading meets AI segmentation, but open s
 ## Installation
 
 ```bash
-git clone https://github.com/Dalmatioon8/AutoGrade.git
-cd AutoGrade
-pip install -r requirements.txt
+under construction :(
 ```
 
 ## Why I built this
